@@ -9,6 +9,12 @@ h2.small-margin {
 h2.big-margin {
     margin-top: 40px;
 }
+
+p.normal-p {
+    width:330%;
+    margin-bottom:10px;
+}
+
 body {
     margin: 0 !important;
     padding: 0 !important;
