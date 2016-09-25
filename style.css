@@ -55,7 +55,7 @@ body {
 }
 
 #mid-blue {
-    background-image: linear-gradient(to bottom, #5684A9 -25%, #235F91 48%, #235F91 100%);
+    background-image: linear-gradient(to bottom, #5684A9 0, #235F91 48%, #235F91 100%);
 }
 
 #mid-blue > a {
@@ -79,7 +79,6 @@ body {
     margin: 0 auto;
     color: #acc8d7 !important;
     font-weight: normal;
-    text-align: baseline;
 }
 
 #mid-blue h1 {
@@ -712,7 +711,7 @@ ol.flex-control-nav.flex-control-thumbs {
     background: rgba(0, 0, 0, 0);
     border: 0;
     margin: 0;
-    padding: 0px !important;
+    padding: 0 !important;
 }
 
 @media (max-width: 768px) {
