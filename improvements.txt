@@ -1,0 +1,25 @@
+TOR web
+0) Introduce a button or roll-down screen with event of news
+1) Review website for consistency of site components (modelling tools)
+   - buttons, explore, return, read-more, etc.
+   - explanations
+   - export facilities
+2) Review website to improve ease of navigation
+3) Review website to improve speed and reliability
+4) Add introductorry page with credits, about, etc,
+
+5) Not immediate: Adjust structure to select examples of modelling tools, e.g. Country Clews is now Mauritius but soon we will be adding Nicargua and Uganda, and later on other countries
+6) Design page for partners
+7) Add space for Outreach Training Courses
+   - Modules
+     - Design space for easy read in windows/screens of an adequate number of lines (16 lines)
+   - Excercises
+     - Design pages for statement of tasks and pages for answers
+   - Read more
+8) Establish adequate linkages... examples...?
+9) Test webiste in beta mode
+10) Work through a test period o version 1.0 of 1 month?
+11) Provide a clear easy to follow instructions to use modelling visualization on desktops such that people with very little IT literacy can follow and succefully run them in their desktops or video instructions
+
+
+  
